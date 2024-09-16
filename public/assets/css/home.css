@@ -1,7 +1,22 @@
 body   {
+    padding: 20px;
     height: 100vh;
     background: linear-gradient(4deg, rgba(255, 179, 227, 0.963) 0%, rgba(255, 255, 255, 0.704) 85%);
 }
+
+.header {
+    margin-top: 20vh;
+    text-align: center;
+}
 img{
-    height: 50vw;
+    height: 20vw;
+    width: 40%;
+}
+.form{
+    text-align: center;
+}
+.form input{
+    width: 80vw;
+    height: 40px;
+    border-radius: 10px;
 }
