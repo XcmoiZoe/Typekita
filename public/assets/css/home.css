@@ -2,3 +2,6 @@ body   {
     height: 100vh;
     background: linear-gradient(4deg, rgba(255, 179, 227, 0.963) 0%, rgba(255, 255, 255, 0.704) 85%);
 }
+img{
+    height: 50vw;
+}
